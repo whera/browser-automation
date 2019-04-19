@@ -1,0 +1,6 @@
+vendor/
+build/
+.idea/
+.DS_Store
+teste.php
+.phpunit.result.cache
